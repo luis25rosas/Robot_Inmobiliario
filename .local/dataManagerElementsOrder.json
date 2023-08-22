@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TablaDatosOrdenada&Sequence_1",
+        "TablaDatosFiltrada&Sequence_1",
+        "SuperficieVar&Sequence_1",
+        "HabitacionesVar&Sequence_1",
+        "DescripcionVar&Sequence_1",
+        "PrecioVar&Sequence_1",
+        "TablaDatosCreada&Sequence_1",
+        "Decision&Sequence_1",
+        "StringDT&Sequence_1",
+        "TablaDatosExtraida&Sequence_1",
+        "Ubicacion&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
